@@ -6,6 +6,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- `ACL23` Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization, 2023. [[paper]](https://arxiv.org/abs/2305.12782)
 - Persona-Knowledge Dialogue Multi-Context Retrieval and Enhanced Decoding Methods, 2022. [[paper]](https://arxiv.org/abs/2207.13919)
 - Am I Me or You? State-of-the-Art Dialogue Models Cannot Maintain an Identity, 2021. [[paper]](https://arxiv.org/abs/2112.05843)
 - Partner Personas Generation for Diverse Dialogue Generation, 2021. [[paper]](https://arxiv.org/abs/2111.13833)
